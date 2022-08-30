@@ -1,0 +1,1 @@
+while true; do bash range3; sleep 2; done
